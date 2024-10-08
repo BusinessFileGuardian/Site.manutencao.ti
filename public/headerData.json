@@ -1,0 +1,9 @@
+{
+  "brand": "Suporte TI",
+  "links": [
+    { "label": "Início", "href": "/" },
+    { "label": "Serviços", "href": "/services" },
+    { "label": "Planos", "href": "/plans" },
+    { "label": "Contato", "href": "/contact" }
+  ]
+}
